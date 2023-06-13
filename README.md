@@ -1,5 +1,32 @@
 🚨🚨🚨**All flows are still under construction, so use your caution** 🚨🚨🚨
 
+# Table of Contents
+
+- [Overview](https://github.com/ArianaAvdoulosEPL/Power-Automate-Utility-Flows/wiki)
+- [Conventions](https://github.com/ArianaAvdoulosEPL/Power-Automate-Utility-Flows/wiki/Conventions)
+- [Getting Started](https://github.com/ArianaAvdoulosEPL/Power-Automate-Utility-Flows/wiki/Getting-Started)
+- [Dependency Tree](https://github.com/ArianaAvdoulosEPL/Power-Automate-Utility-Flows/wiki/Dependency-Tree)
+- Connection References
+     - [🔌 🛠️  Excel: PowerAutomate Admin Utility](https://github.com/ArianaAvdoulosEPL/Power-Automate-Utility-Flows/wiki/Connection-References#-%EF%B8%8F--excel-powerautomate-admin-utility)
+     - [🔌 🛠️  OneDrive: PowerAutomate Admin Utility](https://github.com/ArianaAvdoulosEPL/Power-Automate-Utility-Flows/wiki/Connection-References#-%EF%B8%8F--onedrive-powerautomate-admin-utility)
+     - [🔌 🛠️ Excel Script Connection](https://github.com/ArianaAvdoulosEPL/Power-Automate-Utility-Flows/wiki/Connection-References#-%EF%B8%8F-excel-script-connection)
+     - [🔌 🛠️ Microsoft Dataverse Connection](https://github.com/ArianaAvdoulosEPL/Power-Automate-Utility-Flows/wiki/Connection-References#-%EF%B8%8F-microsoft-dataverse-connection)
+     - [🔌 🛠️ RegEx Matching (Independent Publisher)](https://github.com/ArianaAvdoulosEPL/Power-Automate-Utility-Flows/wiki/Connection-References#-%EF%B8%8F-regex-matching-independent-publisher)
+- Flows
+     - [🛠️ Copy file as a PDF](https://github.com/ArianaAvdoulosEPL/Power-Automate-Utility-Flows/wiki/%F0%9F%9B%A0%EF%B8%8F-Copy-file-as-a-PDF)
+     - [🛠️ Ensure Valid Excel Table](https://github.com/ArianaAvdoulosEPL/Power-Automate-Utility-Flows/wiki/%F0%9F%9B%A0%EF%B8%8F-Ensure-Valid-Excel-Table)
+     - [🛠️ Format Date](https://github.com/ArianaAvdoulosEPL/Power-Automate-Utility-Flows/wiki/%F0%9F%9B%A0%EF%B8%8F-Format-Date)
+     - [🛠️ Get Excel Table Columns](https://github.com/ArianaAvdoulosEPL/Power-Automate-Utility-Flows/wiki/%F0%9F%9B%A0%EF%B8%8F-Get-Excel-Table-Columns)
+     - [🛠️ Get Prop Names](https://github.com/ArianaAvdoulosEPL/Power-Automate-Utility-Flows/wiki/%F0%9F%9B%A0%EF%B8%8F-Get-Prop-Names)
+     - [🛠️ Isolate Dollar Amount](https://github.com/ArianaAvdoulosEPL/Power-Automate-Utility-Flows/wiki/%F0%9F%9B%A0%EF%B8%8F-Isolate-Dollar-Amount)
+     - [🛠️ Remove all Letters from String](https://github.com/ArianaAvdoulosEPL/Power-Automate-Utility-Flows/wiki/%F0%9F%9B%A0%EF%B8%8F-Remove-all-Letters-from-String)
+     - [🛠️ Remove all Special Characters from String](https://github.com/ArianaAvdoulosEPL/Power-Automate-Utility-Flows/wiki/%F0%9F%9B%A0%EF%B8%8F-Remove-all-Special-Characters-from-String)
+     - [🛠️ Remove all Whitespace from String](https://github.com/ArianaAvdoulosEPL/Power-Automate-Utility-Flows/wiki/%F0%9F%9B%A0%EF%B8%8F-Remove-all-Whitespace-from-String)
+     - [🛠️ Save Email as PDF](https://github.com/ArianaAvdoulosEPL/Power-Automate-Utility-Flows/wiki/%F0%9F%9B%A0%EF%B8%8F-Save-Email-as-PDF)
+     - [🛠️ Validate Cheque Number](https://github.com/ArianaAvdoulosEPL/Power-Automate-Utility-Flows/wiki/%F0%9F%9B%A0%EF%B8%8F-Validate-Cheque-Number)
+
+---
+
 # Overview 
 
 The purpose of this solution is to provide general [Power Automate](https://powerautomate.microsoft.com/en-ca/?cdn=disable) flows for actions that I have needed to use frequently. 
