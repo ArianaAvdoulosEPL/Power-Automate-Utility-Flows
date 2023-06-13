@@ -532,6 +532,10 @@ data:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;base64,UE
 [Visio Flowchart](/Visio%20Flowcharts/Get%20Excel%20Table%20Columns.vsdx)
 ![Flowchart Image](./README_pics/Visio_Images/Concept_Get_Excel_Table_Columns.jpg)
 
+[🔃 Flows](#flows) **|** [📃 Table of Contents](#-table-of-contents)
+
+---
+
 # 🛠️ Get Prop Names
 
 Gets the property names in a JSON object and returns them in a stringified JSON array.
