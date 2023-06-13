@@ -833,3 +833,4 @@ Normalizes **Extracted Cheque Number**. Removes zero padding and isolates the nu
 
 [Visio Flowchart](/Visio%20Flowcharts/Validate%20Cheque%20Number.vsdx)
 ![Flowchart Image](./README_pics/Visio_Images/Concept_Validate_Cheque_Number.jpg)
+
